@@ -1,1 +1,1 @@
-console.log("client side js file")
+console.log("client side js file changes")
